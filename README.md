@@ -2,8 +2,6 @@
 
 An end-to-end Power BI project analyzing **38,576 loan applications** to track lending performance, portfolio risk, and repayment health for a consumer lending business.
 
-![Dashboard Summary](images/dashboard_summary.png)
-
 ## 📊 Project Overview
 
 This dashboard answers the core questions a lending business asks every month:
